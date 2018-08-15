@@ -1,0 +1,74 @@
+AGRUPAMENTOS DE INTERCÂMBIO
+ #AG A   B   COEF
+ XXX XXX XXX XX.XXXX
+   1   1   3  1.0000
+   1  11   3  1.0000
+   2   3   1  1.0000
+   2   3  11  1.0000
+   3   1   3  1.0000
+   3   1  11  1.0000
+   4  11   1  1.0000
+   4  11   3  1.0000
+   5   4   1  1.0000
+   5  11   1  1.0000
+   6   1   4  1.0000
+   6   1  11  1.0000
+   7  11   1  1.0000
+   7   4   1  1.0000
+   7  11   3  1.0000
+   8   1   3  1.0000
+   8   1  11  1.0000
+   8   1   4  1.0000   
+ 999
+LIMITES POR GRUPO
+  #AG MI ANOI MF ANOF LIM_P1  LIM_P2  LIM_P3
+ XXX  XX XXXX XX XXXX XXXXXX. XXXXXX. XXXXXX.
+   1   8 2018  9 2018   3700.   3700.   3300.     RECEBIMENTO NE                                                 
+   1  10 2018 12 2018   4000.   4000.   4000.     RECEBIMENTO NE                                                 
+   1   1 2019  6 2019   4900.   4900.   4000.     RECEBIMENTO NE                                                 
+   1   7 2019 11 2019   4000.   4000.   4000.     RECEBIMENTO NE                                                 
+   1  12 2019 12 2019   4500.   4500.   4500.     RECEBIMENTO NE                                                 
+   1   1 2020  6 2020   5500.   5500.   4500.     RECEBIMENTO NE                                                 
+   1   7 2020 12 2020   4500.   4500.   4650.     RECEBIMENTO NE                                                 
+   1   1 2021  5 2021   6200.   6200.   4650.     RECEBIMENTO NE                                                 
+   1   6 2021  6 2021   6200.   6200.   4800.     RECEBIMENTO NE                                                 
+   1   7 2021 12 2021   4500.   4500.   4800.     RECEBIMENTO NE                                                 
+   1   1 2022  2 2022   6200.   6200.   4800.     RECEBIMENTO NE                                                 
+   1   3 2022  6 2022   6200.   6200.   5200.     RECEBIMENTO NE                                                 
+   1   7 2022           8300.   8300.   8000.     RECEBIMENTO NE                                                 
+   2   8 2018 11 2019   4500.   4500.   4000.     EXPORTACAO  NE                                                 
+   2  12 2019  6 2020   4600.   4600.   4500.     EXPORTACAO  NE                                                 
+   2   7 2020  2 2022   4800.   4800.   4700.     EXPORTACAO  NE                                                 
+   2   3 2022           8200.   8200.   7700.     EXPORTACAO  NE                                                 
+   3   8 2018 11 2019   4100.   4200.   4300.     FMCCO + FSENE                                                  
+   3  12 2019  5 2021   4500.   4500.   4500.     FMCCO + FSENE                                                  
+   3   6 2021  2 2022   4800.   4800.   4700.     FMCCO + FSENE                                                  
+   3   3 2022           5800.   5800.   6200.     FMCCO + FSENE                                                  
+   4   8 2018 11 2019   5600.   5600.   5700.     EXPORTACAO IMP-SENE                                            
+   4  12 2019  6 2020   5800.   5800.   5700.     EXPORTACAO IMP-SENE                                            
+   4   7 2020  5 2021   6400.   6400.   6500.     EXPORTACAO IMP-SENE                                            
+   4   6 2021           6900.   6900.   6500.     EXPORTACAO IMP-SENE                                            
+   5   8 2018 10 2018   5858.   5658.   4958.     FNS+XINGU->SE/CO
+   5  11 2018  4 2019   5451.   5251.   4551.     FNS+XINGU->SE/CO
+   5   5 2019 10 2019   5858.   5658.   4958.     FNS+XINGU->SE/CO
+   5  11 2019 11 2019   5451.   5251.   4551.     FNS+XINGU->SE/CO
+   5  12 2019  4 2020   8551.   8551.  10051.     FNS+XINGU->SE/CO
+   5   5 2020  6 2020   8958.   8958.  10458.     FNS+XINGU->SE/CO
+   5   7 2020 10 2020   8958.   8958.  10558.     FNS+XINGU->SE/CO
+   5  11 2020  4 2021   8551.   8551.  10151.     FNS+XINGU->SE/CO
+   5   5 2021  5 2021   8958.   8958.  10558.     FNS+XINGU->SE/CO
+   5   6 2021 10 2021   9958.   9958.  10958.     FNS+XINGU->SE/CO
+   5  11 2021  4 2022   9551.   9551.  10551.     FNS+XINGU->SE/CO
+   5   5 2022 10 2022   9958.   9958.  10958.     FNS+XINGU->SE/CO
+   5  11 2022           9551.   9551.  10551.     FNS+XINGU->SE/CO
+   6   8 2018 11 2019   4500.   4500.   4500.     FMCCO+SE/CO->XINGU
+   6  12 2019           5800.   5800.   5600.     FMCCO+SE/CO->XINGU
+   7   8 2018 11 2019   9300.   9200.   8000.     EXPORTACAO NORTE
+   7  12 2019  6 2020  13800.  13800.  13700.     EXPORTACAO NORTE
+   7   7 2020  5 2021  14400.  14400.  14500.     EXPORTACAO NORTE
+   7   6 2021          14900.  14900.  14500.     EXPORTACAO NORTE
+   8   8 2018 11 2019   5700.   5700.   5700.     EXPORTACAO SE-NNE + Bipolo                                           
+   8  12 2019  5 2021   6400.   6400.   5700.     EXPORTACAO SE-NNE + Bipolo                                          
+   8   6 2021  2 2022   6700.   6700.   5700.     EXPORTACAO SE-NNE + Bipolo                                          
+   8   3 2022           7700.   7700.   7000.     EXPORTACAO SE-NNE + Bipolo                                          
+ 999
