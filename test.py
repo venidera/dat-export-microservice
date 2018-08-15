@@ -7,10 +7,9 @@ import os
 from easyprocess import EasyProcess
 from time import sleep
 
-display = pvDisp(visible=True, size=(1000, 600))
+display = pvDisp(backend='xvfb', visible=True, size=(1000, 600))
 # Starting pyvirtualdisplay
 display.start()
-print(os.environ['DISPLAY'])
 
 pyautogui.FAILSAFE = False
 pyautogui._pyautogui_x11._display = Display(os.environ['DISPLAY'])
